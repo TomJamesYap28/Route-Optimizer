@@ -19,3 +19,30 @@ In this section are the frameworks/libraries/plug-ins/add-ons and etc. that I us
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+# Getting Started
+## Prerequisites
+## Installation
+
+# Usage
+
+# Roadmap
+
+# License
+
+# Contact
+For any inquiries or to obtain the source code for this project, please feel free to reach out via email:
+
+Email: tjyap28@gmail.com
+
+We look forward to assisting you with any questions or providing further information as needed.
+
+# Acknowledgements
+I would like to extend my sincere thanks to the following individuals for their valuable contributions and support throughout the development of this project:
+
+- Remi Vallejo
+
+Your expertise and guidance were instrumental in bringing this project to fruition, and I greatly appreciate your time and effort.
+
+
+
