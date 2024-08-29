@@ -21,7 +21,7 @@ In this section are the frameworks/libraries/plug-ins/add-ons and etc. that I us
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # Usage
-To provide sample demos please reachout in my email. [Thomas James Yap](tjyap28@gmail.com)
+To provide sample demos please reachout in my email (tjyap28@gmail.com)
 
 # Roadmap
 - [x] Responsive
