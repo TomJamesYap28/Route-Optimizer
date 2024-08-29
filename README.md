@@ -4,6 +4,8 @@
     <img src="https://github.com/user-attachments/assets/a78d4f57-58a1-4d66-a965-e2becd0942eb" width="250" height="250" />
 </div>
 
+This project is about a Route Optimizer and Multi-Stop Quote where the user will input a destination from point a to point b and the application will display it's result from total miles, total time to reach point a to b, as well as a calculation with it's multi-stop quote.
+
 
 ## Built With
 In this section are the frameworks/libraries/plug-ins/add-ons and etc. that I used to build the web-app.
@@ -23,10 +25,14 @@ In this section are the frameworks/libraries/plug-ins/add-ons and etc. that I us
 ## Installation
 
 # Usage
+To provide sample demos please reachout in my email. [Thomas James Yap](tjyap28@gmail.com)
 
 # Roadmap
-
-# License
+- [x] Responsive
+- [x] Integrate Google API
+- [x] Gives best results of reaching point a to b
+- [ ] Further Integrate with other Multi-Stop Quote Functions
+- [ ] Apply DAT rate
 
 # Contact
 For any inquiries or to obtain the source code for this project, please feel free to reach out via email:
